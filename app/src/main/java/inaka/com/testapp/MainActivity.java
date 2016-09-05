@@ -1,4 +1,4 @@
-package inaka.com.testapp.activities;
+package inaka.com.testapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
